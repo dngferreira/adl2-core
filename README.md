@@ -1,5 +1,6 @@
-# adl2-core
 
+# adl2-core
+[![Build Status](https://travis-ci.org/lonangel/adl2-core.svg?branch=master)](https://travis-ci.org/lonangel/adl2-core)
 ADL / AOM 2 (previously known as '1.5') core libs and parser
 
 ## Getting Started
